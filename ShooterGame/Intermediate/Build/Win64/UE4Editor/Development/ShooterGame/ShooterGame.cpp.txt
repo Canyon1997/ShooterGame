@@ -1,0 +1,2 @@
+C:\Users\Canyon\Desktop\Unreal Engine Projects\Unreal Projects\ShooterGame\ShooterGame\Intermediate\Build\Win64\UE4Editor\Development\ShooterGame\Definitions.ShooterGame.h
+C:\Users\Canyon\Desktop\Unreal Engine Projects\Unreal Projects\ShooterGame\ShooterGame\Source\ShooterGame\ShooterGame.h
